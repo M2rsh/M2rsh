@@ -1,1 +1,2 @@
-<p style="color: #ff0000; text-align: center;"> Hello Cruel World! </p>
+<p> Hello Cruel World! </p>
+<img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=B00B50" alt="Colour">Colour</img>
