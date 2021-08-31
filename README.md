@@ -1,2 +1,3 @@
-<p> Hello Cruel World! </p>
-<img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=B00B50" alt="Colour">Nice Colour</img>
+<p>Hello Cruel World!</p>
+<p>My Favorite colour</p>
+<img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=fab743" alt="Colour">it prob gonna change in a month lol</img>
