@@ -6,8 +6,8 @@
 <p>14yo Hobbist from Poland im bored so i do this</p>
 <p>Languages that i know</p>
 <ul>
-  <li>Python</li>
-  <li>Javascript</li>
-  <li>C# and C++</li>
+<li>Python</li>
+<li>Javascript</li>
+<li>C# and C++</li>
 <ul/>
 <a href="https://replit.com/@M2rsho">My Replit</a>
