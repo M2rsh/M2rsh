@@ -1,6 +1,6 @@
 <h1 align="center">Hello Cruel World!</h1>
-<p align="center" color="#fab743">
-  My Favorite colour<br/>
+<p align="center">
+  [!#fab743]My Favorite colour`#fab743`<br/> 
   <img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=fab743" alt="Colour"></img><br/>
   it prob gonna change in a month lol
 </p>
