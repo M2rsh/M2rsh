@@ -10,9 +10,9 @@
   <h2>About me</h2>
   14yo Hobbist from Poland im bored so i do this <br/>
   Languages that i know <br/>
-  <ul>
-    <li>Python</li>
-    <li>Javascript</li>
-    <li>C# and C++</li>
-  <ul/>
+  Python <br/>
+  Javascript <br/>
+  C# and C++ <br/>
+  Html and Css <br/>
+  (if someone wants to call it programming language)
 </div>
