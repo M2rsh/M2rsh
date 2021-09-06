@@ -10,7 +10,7 @@
   <h2>About me</h2>
   14yo Hobbist from Poland im bored so i do this <br/>
   Languages that i know <br/>
-  Python <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" height="50px">Python <br/>
   Javascript <br/>
   C# and C++ <br/> <br/>
   Html and Css <br/>
