@@ -1,7 +1,7 @@
 <h1 align="center">Hello Cruel World!</h1>
 <p align="center">
   My Favorite colour<br/> 
-  <img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=fab743" alt="Colour" width="500px"></img><br/>
+  <img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=fab743" alt="Colour" width="500px" height="50px"></img><br/>
   it prob gonna change in a month lol
 </p>
 <a href="https://replit.com/@M2rsho">My Replit</a>
