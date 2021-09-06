@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hello Cruel World!</h1>
  <p align="center">
     My Favorite colour<br/> 
@@ -7,7 +8,6 @@
     Discord: mariyt#0420 or mariyt#0001 <br/>
  </p>
   <h2>About me</h2>
-  <div align="center">
   14yo Hobbist from Poland im bored so i do this <br/>
   Languages that i know <br/>
   <ul>
@@ -15,4 +15,4 @@
     <li>Javascript</li>
     <li>C# and C++</li>
   <ul/>
-    </div>
+</div>
