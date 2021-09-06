@@ -12,7 +12,7 @@
   Languages that i know <br/>
   Python <br/>
   Javascript <br/>
-  C# and C++ <br/>
+  C# and C++ <br/> <br/>
   Html and Css <br/>
   (if someone wants to call it programming language)
 </div>
