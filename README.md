@@ -10,9 +10,9 @@
   <h2>About me</h2>
   14yo Hobbist from Poland im bored so i do this <br/>
   Languages that i know <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" height="15px">Python <br/>
-  Javascript <br/>
-  C# and C++ <br/> <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" height="15px"/>Python <br/>
+  <img src="https://d2gdtie5ivbdow.cloudfront.net/media/images/javascript.png" alt="js" height="15px"/>Javascript <br/>
+  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="c#" height="15px"/>C# and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" height="15px"/>C++ <br/> <br/>
   Html and Css <br/>
   (if someone wants to call it programming language)
 </div>
