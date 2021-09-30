@@ -2,7 +2,7 @@
 <h1 align="center">Hello Cruel World!</h1>
  <p align="center">
     My Favorite colour<br/> 
-    <img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=fab743" alt="Colour" width="500px" height="50px"></img><br/>
+    <img src="https://www.thecolorapi.com/id?format=svg&named=false&hex=666699" alt="Colour" width="800px" height="50px"></img><br/>
     it prob gonna change in a month lol <br/><br/>
     <a href="https://replit.com/@M2rsho">My Replit</a> <br/>
     Discord: mariyt#0420 or mariyt#0001 <br/>
