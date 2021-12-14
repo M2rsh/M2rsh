@@ -15,4 +15,6 @@
   <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="c#" height="15px"/>C# and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" height="15px"/>C++ <br/> <br/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" height="15px"/>HTML and <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" alt="css" height="15px"/>CSS <br/>
   (if someone wants to call it programming language)
+  
+  ![](https://komarev.com/ghpvc/?username=m2rsho&color=blueviolet)
 </div>
