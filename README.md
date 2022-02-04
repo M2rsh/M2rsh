@@ -8,4 +8,8 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
+![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i5_3570-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2rsho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
