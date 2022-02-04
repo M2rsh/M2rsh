@@ -1,6 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=m2rsho&color=blueviolet&style=for-the-badge">
-<img align="right" src="https://img.shields.io/github/followers/m2rsho.svg?style=social&label=Follow&maxAge=2592000">
-
+Hi!
 
 ![Debian](https://img.shields.io/badge/Debian-a80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
