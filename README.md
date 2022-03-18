@@ -1,6 +1,5 @@
 Hi!
 
-![Debian](https://img.shields.io/badge/Debian-a80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,6 +8,7 @@ Hi!
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
+![Debian](https://img.shields.io/badge/Debian-a80030?style=for-the-badge&logo=debian&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i5_3570-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
