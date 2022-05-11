@@ -12,4 +12,4 @@ Hi!
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i5_3570-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2rsho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2rsh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
