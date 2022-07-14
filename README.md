@@ -1,4 +1,4 @@
-Me when pee pee poo poo this shit bad \/
+Me when pee pee poo poo this shit bad \\/
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
