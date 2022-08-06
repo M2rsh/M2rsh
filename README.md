@@ -8,5 +8,6 @@ Me when pee pee poo poo this shit bad \\/
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <div style="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2rsh&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=m2rsh&theme=calm&show_icons=true" alt="Anurag's GitHub stats"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2rsh&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
