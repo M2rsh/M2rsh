@@ -12,6 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m2rsh&show_icons=true&locale=en&theme=rose_pine&count_private=true&hide_border=true" alt="m2rsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m2rsh&theme=radial" alt="m2rsh" /></p>
-
 
