@@ -1,9 +1,3 @@
-<div align="center"> 
-  <h1>Welcome to my Profile!</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m2rsh&theme=rose_pine&hide_border=true" alt="Anurag's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=m2rsh" alt="Anurag's GitHub stats"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Mariusz</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
