@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariusz</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.youtube.com/c/m2rsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m2rsh" height="30" width="40" /></a>
 <a href="https://discord.gg/dfKMTx9Eea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfKMTx9Eea" height="30" width="40" /></a>
 </p>
