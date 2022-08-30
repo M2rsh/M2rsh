@@ -7,5 +7,6 @@ void main(){
 	char enter = 0;
 	while (enter != '\r' && enter != '\n') { enter = getchar(); }
 	printf("\nTrolling started\n");
-	while (1) { int* p = malloc(2048); }
+	while (1) { int* p = malloc(1024); }
+	printf("\nSomething ain't right");
 }
