@@ -62,9 +62,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="30"/> 
 </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" height="30"/> 
-</a>
 </p>
 
 <br/>
