@@ -44,9 +44,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" height="30"/> 
 </a> 
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="electron" height="30"/> 
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="30"/> 
 </a> 
