@@ -20,8 +20,8 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="linux" height=30"/> 
+<a href="https://www.archlinux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Arch-blue?style=for-the-badge&logo=archlinux&logoColor=white" alt="linux" height=30"/> 
 </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="linux" height=30"/> 
@@ -58,9 +58,6 @@
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="30"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="30"/> 
 </a> 
 </p>
 
