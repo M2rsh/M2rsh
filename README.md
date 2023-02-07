@@ -43,4 +43,4 @@ Warning: Lithium aluminum hydride ignites on contact with moisture. Do not use o
 22. Place little piles of this substance on a cookie tray and, with a heat lamp, dry for three or four hours. Now you have D.M.T. To ingest, crumble a small quantity with parsley or mint, and smoke. Do not inject. Do not smoke with tobacco. DMT is a powerful psychedelic and should not be abused.
 Author's note: All chemicals in the last recipe can be ordered by mail from any of the large chemical manufac- turers. Lithium aluminum hydride may be ordered from Metal Hydrides Inc., Beverly, Massachusetts (it costs about $20 per 100 grams). All other chemicals can be ordered from Van Water-Rogers.
 
-Source: Anarchist Cookbook
+Source: Anarchist Cookbook by William Powell
