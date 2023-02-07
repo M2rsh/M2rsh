@@ -1,4 +1,4 @@
-Disclaimer: I do not promote or encourage any illegal activities, all contents provided by this readme were created with educational purpose. 
+Disclaimer: I do not promote or encourage any illegal activities, all contents provided by this readme were created for educational purposes only. 
 
 
 # DMT
@@ -20,12 +20,14 @@ Warning: When these two chemicals are mixed together, there is an extremely viol
 9. Now filter the solution to separate the precipitate by suction, as shown in Figure 7.
 
 ![image](https://user-images.githubusercontent.com/69349269/217117029-7de42667-9513-4412-8474-a69fe3221975.png)
+
 10. Refilter with suction after pouring technical ether over the precipitate.
 11. Repeat filtering once more with ether and then twice with water.
 12. Let this substance dry on a plastic or china plate. (Do not use metal.) After drying, a solid material will be formed. Take these particles and place them in a 800-ml. beaker.
 13. Mix 100 ml. benzene with 100 ml. methyl alcohol. After the mixture has been stirred, cover solid particles from step 12 with about a half inch of the solution and heat the beaker in water until all solid material has dissolved. Add more solvent if necessary. See Figure 8 below.
 
 ![image](https://user-images.githubusercontent.com/69349269/217117131-43472a55-1237-41e7-8382-e4913b978475.png)
+
 14. After all the solid material has dissolved, remove beaker from the heat, and allow it to cool. As it cools, small needle-shaped crystals will appear. When this happens, try to pour off as much of the solvent as possible without dis- turbing the crystals.
 15. Place crystals in a 1,000-ml. flask and dissolve in tetrahydrofurane. (Use only as much as absolutely neces- sary.) Label this solution "A."
 16. Slowly mix 200 ml. tetrahydrofuranc and 20 grams lithium aluminum hydride in a 500-ml, flask, and label it solution "B."
@@ -34,6 +36,7 @@ Warning: Lithium aluminum hydride ignites on contact with moisture. Do not use o
 18. Prepare a water bath and heat solution in water bath for three hours, stirring for four minutes every half hour. When not stirring, use aspirator tube as shown in Figure 9.
 
 ![image](https://user-images.githubusercontent.com/69349269/217117229-54b6d2f4-c904-48e2-8535-4f2fdf84f1cc.png)
+
 19. When this is completed, allow the flask to remain at room temperature for about 20 minutes. Then place in salted ice bath and cool to 0 degrees C. Add a small amount of chilled methanol, stirring gently until solution appears murky.
 20. Filter this murky solution through a paper filter in a funnel, and collect the filtered liquid in a flask.
 21. Add 100 ml. of tetrahydrofuran through the filter and collect in the same flask. Now heat this solution in a water bath until most of the tetrahydrofuran is evaporated and a gooey substance remains.
